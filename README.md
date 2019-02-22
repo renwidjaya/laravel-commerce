@@ -1,4 +1,4 @@
-# test-laravel
+# commerce-laravel xample
 
 How to install easy
 
